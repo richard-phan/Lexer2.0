@@ -4,10 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Vector;
 
-/*
- * ADD SECOND VECTOR TO ID THE ENDING STATE
- */
-
 public class Lexer {
 
     private int[][] table;      // FSM table
